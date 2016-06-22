@@ -1,5 +1,6 @@
 #!/bin/env python 
 # smsgrid.py
+# git commit!!!
 
 import sys,os,re,csv
 
